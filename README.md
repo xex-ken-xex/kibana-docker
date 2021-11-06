@@ -1,0 +1,2 @@
+# kibana-docker
+docker template.
